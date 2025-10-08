@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+The foundational quality of my journey has been my commitment to continuous learning and the ability to adapt in the face of growing challenges. My contributions have played a vital role in the success of my projects and teams. My passion for data science and analysis powers my drive to always stay ahead of the curve. I thrive in environments where I can use my skills to acquire insights from data. Committed to success, I look forward to connecting with like-minded professionals and exploring opportunities to contribute my skills to success-thinking organizations. 
+
+
+
 <!--
 **davidorizu/davidorizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
