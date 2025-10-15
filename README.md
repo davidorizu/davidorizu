@@ -1,20 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm David Orizu  
 
-The foundational quality of my journey has been my commitment to continuous learning and the ability to adapt in the face of growing challenges. My contributions have played a vital role in the success of my projects and teams. My passion for data science and analysis powers my drive to always stay ahead of the curve. I thrive in environments where I can use my skills to acquire insights from data. Committed to success, I look forward to connecting with like-minded professionals and exploring opportunities to contribute my skills to success-thinking organizations. 
+🎓 **Data Science Student @ Brigham Young University–Idaho**  
+📊 **Data Analyst | Machine Learning Enthusiast | Dashboard Developer**
 
+---
 
+### 🌟 About Me
+I'm a passionate data scientist dedicated to transforming complex datasets into clear, actionable insights.  
+I specialize in **SQL, Python, R, and Power BI**, and I love using data visualization and statistical modeling  
+to help organizations make better decisions.
 
-<!--
-**davidorizu/davidorizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working as a **Data Analyst at BYU–Idaho**
+- 🧠 Tutored students in **Python and R** as a Data Science Lab Tutor  
+- 💡 Interests: Machine Learning, Data Engineering, and Visualization  
+- 🎯 Goal: Build intelligent analytics solutions that drive business strategy  
+- 🌍 Portfolio: [davidorizu.github.io/davidorizu2](https://davidorizu.github.io/davidorizu2)
+- 💼 LinkedIn: [linkedin.com/in/david-orizu-935508248](https://www.linkedin.com/in/david-orizu-935508248/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Technical Skills
+**Languages:** Python, R, SQL  
+**Tools:** Power BI, Tableau, Excel, Git, VS Code  
+**Techniques:** Machine Learning, Statistical Analysis, Data Wrangling, ETL, Dashboarding  
+
+---
+
+### 🧩 BYU–Idaho Data Projects
+- 📈 Automated Power BI dashboards for university departments.  
+- 🧹 Built R scripts to clean and visualize large datasets.  
+- 🗂️ Partnered with teams to improve reporting efficiency through data automation.  
+
+---
+
+### 🧠 Fun Facts
+- ⚽ Soccer fan & central midfielder — team strategy analytics fascinate me  
+- 🎨 Love designing anime-inspired merch (LiftedViz / D-Drops)  
+- ☕ Always down for deep data talks over coffee
+
+---
+
+### 📨 Contact Me
+📧 **Email:** [chidubem.orizu@yahoo.com](mailto:chidubem.orizu@yahoo.com)  
+💼 **LinkedIn:** [linkedin.com/in/david-orizu-935508248](https://www.linkedin.com/in/david-orizu-935508248/)  
+🌐 **Portfolio:** [davidorizu.github.io/davidorizu2](https://davidorizu.github.io/davidorizu2)
+
+---
+
+⭐ *“Data tells a story — my job is to help others read it.”*  
