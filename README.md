@@ -1,8 +1,13 @@
 # 👋 Hi, I'm David Orizu  
 
 🎓 **Data Science Student @ Brigham Young University–Idaho**  
-📊 **Data Analyst | Machine Learning Enthusiast | Dashboard Developer**
+📊 **Data Analyst | SQL Enthusiast | Dashboard Developer**
 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ---
 
 ### 🌟 About Me
