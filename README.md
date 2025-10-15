@@ -27,12 +27,13 @@ to help organizations make better decisions.
 ### 🧰 Technical Skills
 **Languages:** Python, R, SQL  
 **Tools:** Power BI, Tableau, Excel, Git, VS Code  
-**Techniques:** Machine Learning, Statistical Analysis, Data Wrangling, ETL, Dashboarding  
+**Techniques:** Statistical Analysis, Data Wrangling, Dashboarding, ETL, Machine Learning
 
 ---
 
 ### 🧩 BYU–Idaho Data Projects
-- 📈 Automated Power BI dashboards for university departments.  
+- 📈 Automated Power BI dashboards for university departments.
+- 🧮 Optimized SQL queries and database views to extract insights from large academic datasets, reducing query runtime and improving data reliability.  
 - 🧹 Built R scripts to clean and visualize large datasets.  
 - 🗂️ Partnered with teams to improve reporting efficiency through data automation.  
 
@@ -40,8 +41,8 @@ to help organizations make better decisions.
 
 ### 🧠 Fun Facts
 - ⚽ Soccer fan & central midfielder — team strategy analytics fascinate me  
-- 🎨 Love designing anime-inspired merch (LiftedViz / D-Drops)  
-- ☕ Always down for deep data talks over coffee
+- 🎨 Love designing merch (LiftedViz / D-Drops)  
+- ☕ Always down for deep data talks
 
 ---
 
